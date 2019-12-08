@@ -3,6 +3,7 @@
 # Create a low pass filter using python
 ## matplotlib library
 Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook, web application servers, and four graphical user interface toolkits.
+
 ![image](https://matplotlib.org/_images/sphx_glr_histogram_thumb.png)
 ## Step1: Create the signal
 * create a signal with frequency of 100Hz **signala = np.sin(2*np.pi*100*t)**
