@@ -15,4 +15,4 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 * Pass the signal frequency less than 30Hz
 ![image](https://github.com/Miketan1/EC601_miniproject3_DSP/blob/master/Figure_1.png)
 ## Reference
-https://matplotlib.org/
+[1] https://matplotlib.org/
