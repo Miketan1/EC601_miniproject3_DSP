@@ -25,3 +25,4 @@ From the figure below we could observe, where orange signal is the filtered sign
 ![image](https://github.com/Miketan1/EC601_miniproject3_DSP/blob/master/Figure_1.png)
 ## Reference
 [1] https://matplotlib.org/
+[2] https://en.wikipedia.org/wiki/Low-pass_filter
