@@ -14,6 +14,8 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 ![image](https://github.com/Miketan1/EC601_miniproject3_DSP/blob/master/c.png)
 ## Step2: Using low pass filter
 * Pass the signal frequency less than 30Hz
+
+From the figure below we could observe, where orange signal is the filtered signal, we could observe that the singal a has been blocked because it's frequency is 100Hz bigger than 30Hz.
 ![image](https://github.com/Miketan1/EC601_miniproject3_DSP/blob/master/Figure_1.png)
 ## Reference
 [1] https://matplotlib.org/
