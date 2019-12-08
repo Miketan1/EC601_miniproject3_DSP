@@ -1,11 +1,17 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import signal
-fs = 5000  # Sampling frequency
+
+# Sampling frequency
+fs = 5000
 t = np.arange(1000) / fs
-signala = np.sin(2*np.pi*100*t) # with frequency of 100
+
+# with frequency of 100
+signala = np.sin(2*np.pi*100*t) 
 #plt.plot(t,signala,label = 'a')
-signalb = np.sin(2*np.pi*20*t) # with frequency of 20
+
+# with frequency of 20
+signalb = np.sin(2*np.pi*20*t) 
 #plt.plot(t,signalb,label = 'b')
 signalc = signala + signalb
 plt.plot(t, signalc, label = 'Original')
